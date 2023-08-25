@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritul Raj✨✨</h1>
-<h3 align="center">A Passionate Web developer and Dsa Enthusiast 🧑‍💻 Pre-final year IIIT Bhopal🤖</h3>
+<h3 align="center">A Passionate Web developer And Dsa Enthusiast 🧑‍💻 Pre-final year IIIT Bhopal🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritul-raj&label=Profile%20views&color=0e75b6&style=flat" alt="ritul-raj" /> </p>
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://codepen.io/@ritul-raj-the-bashful" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ritul-raj-the-bashful" height="30" width="40" /></a>
 <a href="https://twitter.com/@ritulra78876985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ritulra78876985" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ritul raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritul raj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritul-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritul raj" height="30" width="40" /></a>
 <a href="https://fb.com/ritul raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritul raj" height="30" width="40" /></a>
 <a href="https://instagram.com/ritul_rajj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritul_rajj" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ritul_1000" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ritul_1000" height="30" width="40" /></a>
