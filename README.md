@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritul Raj✨✨</h1>
-<h3 align="center">A Passionate Web developer And Dsa Enthusiast 🧑‍💻 Pre-final year IIIT Bhopal🤖</h3>
+<h3 align="center">A Passionate Web developer And Dsa Enthusiast 🧑‍💻 Final year IIIT Bhopal🤖</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritul-raj&label=Profile%20views&color=0e75b6&style=flat" alt="ritul-raj" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web development projects**
 
-- 💬 Ask me about **Any frontend topic & Concept of data structure and algorithm**
+- 💬 Ask me about **Any Development topic & Concept of data structure and algorithm**
 
 - 📫 How to reach me **ritulraj1000@gmail.com**
 
